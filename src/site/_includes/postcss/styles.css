@@ -1,0 +1,41 @@
+@import "_variables.css";
+@import "_syntax.css";
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+.introduction {
+  background: #000;
+  font-weight: 300;
+  font-style: normal;
+  color: #fff;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  grid-template-columns: 1fr;
+
+  @media (min-width: 600px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  &__title {
+    margin: 0;
+    padding: 0;
+    font-size: 3rem;
+
+    @media (min-width: 600px) {
+      font-size: 7.5rem;
+      grid-row: 1;
+      grid-column: 2;
+    }
+  }
+}
