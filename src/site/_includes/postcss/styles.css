@@ -39,6 +39,10 @@ p {
   justify-content: center;
   margin: 6rem auto 4rem;
 
+  &__image {
+    width: 80%;
+  }
+
   &__title {
     font-family: "Knockout 50 A", "Knockout 50 B";
     align-self: end;
