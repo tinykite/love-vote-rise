@@ -3,24 +3,88 @@
 
 body {
   margin: 0;
+  background: #000;
+  color: #fff;
+  font-family: "Gotham SSm A", "Gotham SSm B";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.4;
 }
 
 * {
   box-sizing: border-box;
 }
 
-h1 {
-  font-weight: 300;
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
 }
 
-.temp {
-  background: #000;
-  color: #fff;
+.container {
+  max-width: 50ch;
+  margin: 0 auto;
+}
+
+.intro {
   display: grid;
   align-items: center;
   justify-items: center;
-  height: 100vh;
-  font-family: "Knockout 50 A", "Knockout 50 B";
+  justify-content: center;
+  margin: 6rem auto 4rem;
+
+  &__title {
+    font-family: "Knockout 50 A", "Knockout 50 B";
+    align-self: end;
+  }
+
+  &__tagline {
+    font-size: 16px;
+    max-width: 50ch;
+    align-self: start;
+    margin-top: 3rem;
+  }
+}
+
+p {
+  font-size: 1.125rem;
+  margin-top: 1.125rem;
+}
+
+h3 + p {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 3.247rem;
+  font-family: "Knockout 47 A", "Knockout 47 B";
   font-style: normal;
   font-weight: 400;
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: 0.5px;
+
+  &:not(:first-child) {
+    margin-top: 4rem;
+  }
+}
+
+h3 {
+  font-size: 2.125rem;
+  font-family: "Knockout 48 A", "Knockout 48 B";
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 1.424rem;
+}
+
+.resources {
+  margin: 4rem auto 0;
+  display: grid;
+  justify-content: center;
+
+  a {
+    color: inherit;
+  }
 }
