@@ -24,8 +24,12 @@ p {
 }
 
 .container {
-  max-width: 50ch;
+  max-width: 40ch;
   margin: 0 auto;
+
+  @media (min-width: 500px) {
+    max-width: 50ch;
+  }
 }
 
 .intro {
