@@ -51,11 +51,15 @@ p {
   }
 
   &__tagline {
-    font-size: 20px;
+    font-size: 18px;
     max-width: 50ch;
     align-self: start;
     margin-top: 3rem;
     text-align: center;
+
+    @media (min-width: 500px) {
+      font-size: 20px;
+    }
   }
 }
 
