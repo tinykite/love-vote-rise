@@ -5,72 +5,57 @@ layout: layouts/base.njk
 
 <article class="resources">
 
-## Register to Vote
+## Important Dates
 
+### OCT 13
+Pre-registration deadline
+
+### OCT 20
+Recommended last day to mail your ballot (2 weeks before election day)
+
+### NOV 3
+Election Day (You can still register to vote in-person on this day)
+
+## Register to Vote
 [Check your voter registration status](https://mnvotes.sos.state.mn.us/VoterStatus.aspx)
 
-Not registered yet? [Register to vote online](https://www.sos.state.mn.us/elections-voting/register-to-vote/)
+[Register to vote online](https://www.sos.state.mn.us/elections-voting/register-to-vote/)
 
 ## Vote Early
-
-You can [request an absentee ballot online](https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx) or visit an early voting station to fill out a ballot in-person.
+[Request an absentee ballot online](https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx) or visit an early voting station to fill out a ballot in-person.
 
 ### By Mail
-
-If you've receive an absentee ballot in the mail at least 2 weeks before the election, you can choose to fill it out and drop it in the mail. Don't worry if it's later than that date — you can drop also off your absentee ballot at a early voting station in-person.
+If you have received an absentee ballot in the mail, please fill it out and drop it in the mail by October 20. Alternatively, you can drop it off at a polling station.
 
 ### In Person
-
-Early polling stations are set up to allow individuals to drop-off absentee ballots or fill out a ballot on-site.
-
 [Find your early voting polling station](https://www.sos.state.mn.us/elections-voting/find-county-election-office/)
 
-The last day for early voting is November 2nd. Don’t forget to take your mask.
+Early polling stations are available for dropping off absentee ballots or filling out a ballot on site. The last day for early voting is November 2nd. Remember to bring your mask.
 
 ### Track Your Ballot
-
-In Minnesota, voters can check on the status of their ballots with [this online form](https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx).
+[Check the status of your ballot](https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx)
 
 ## Vote on Election Day
+[Everything you need to know to vote on Election day on November 3rd (where, when, how)](https://www.sos.state.mn.us/elections-voting/election-day-voting/)
 
-Learn [everything you need to know to vote on Election day (where, when, how)](https://www.sos.state.mn.us/elections-voting/election-day-voting/).
+You may still register at your polling location on the day of election. Remember to bring your mask.
 
-Don’t forget to take your mask.
-
-## Voting Information
-
-[MPR guide to candidates and issues](https://www.mprnews.org/politics/election-2020/election-2020-voter-guides)
-
-[MPR voting guide provided by League of Women Voters of Minnesota](http://lwv.thevoterguide.org/v/MPR_News20/build.do)
+## More Resources
 
 [What's on my ballot?](https://myballotmn.sos.state.mn.us/)
 
+[MPR guide to candidates and issues](https://www.mprnews.org/politics/election-2020/election-2020-voter-guides)
+
 [Upcoming candidate forums and debates](https://www.vote411.org/upcoming/46/debates-forums)
+
+[VOTE 411 / League of Women Voters](https://www.vote411.org/)
 
 [Minnesota Secretary of State Voting Information](https://www.sos.state.mn.us/elections-voting/)
 
-[VOTE 411](https://www.vote411.org/)
+## About Love Vote Rise
 
-## Important Dates
+This non-partisan multimedia project is a collective effort by art and community minded Minnesotans. We are working to promote civic engagement and voter turnout under the banner of LOVE VOTE RISE. Catch our community postering and street projections in action at #LoveVoteRise.
 
-We are encouraging everyone to vote early!
-
-### Oct 13
-
-Pre-registration deadline
-
-### Oct 20
-
-Recommend last day to mail your ballot
-
-### Nov 3
-
-Election Day - (In Minnesota, you can still register to vote in-person on this day!)
+Donate to help us cover the costs of projection equipment and poster printing. Thank you.
 
 </article>
-
-<!-- <div class="gallery">
-{%- for image in images %}
-    <img class="word__illustration" src="/images/{{ word.data.title }}.svg" />
-{%- endfor%}
-</div> -->

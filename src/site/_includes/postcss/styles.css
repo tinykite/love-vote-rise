@@ -24,11 +24,11 @@ p {
 }
 
 .container {
-  max-width: 40ch;
+  max-width: 80%;
   margin: 0 auto;
 
-  @media (min-width: 500px) {
-    max-width: 50ch;
+  @media (min-width: 700px) {
+    width: 50vw;
   }
 }
 
@@ -38,9 +38,11 @@ p {
   justify-items: center;
   justify-content: center;
   margin: 6rem auto 4rem;
+  text-align: center;
 
   &__image {
-    width: 80%;
+    width: 300px;
+    max-width: 80%;
   }
 
   &__title {
@@ -49,16 +51,18 @@ p {
   }
 
   &__tagline {
-    font-size: 16px;
+    font-size: 20px;
     max-width: 50ch;
     align-self: start;
     margin-top: 3rem;
+    text-align: center;
   }
 }
 
 p {
   font-size: 1.125rem;
   margin-top: 1.125rem;
+  max-width: 50ch;
 }
 
 h3 + p {
