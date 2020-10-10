@@ -54,9 +54,9 @@ You may still register at your polling location on the day of election. Remember
 
 ## Love Vote Rise
 
-This non-partisan multimedia project is a collective effort by art and community minded Minnesotans. We are working to promote civic engagement and voter turnout under the banner of LOVE VOTE RISE. Catch our community postering and street projections in action at #LoveVoteRise.
+This non-partisan multimedia project is a collective effort by art and community minded Minnesotans. We are working to promote civic engagement and voter turnout under the banner of LOVE VOTE RISE. Catch our community postering and street projections in action at #LoveVoteRise
 
-Donate to help us cover the costs of projection equipment and poster printing. Thank you.
+Please donate to help us cover the costs of projection equipment and poster printing. Thank you.
 
 <form class="resources__donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -64,7 +64,5 @@ Donate to help us cover the costs of projection equipment and poster printing. T
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-<img class="resources__image" src="/images/LoveHopeRiseweb.jpg">
 
 </article>

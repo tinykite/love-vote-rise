@@ -59,9 +59,10 @@ p {
     max-width: 50ch;
     align-self: start;
     text-align: center;
+    margin-top: 3rem;
 
-    &:first-child {
-      margin-top: 3rem;
+    &:not(:first-of-type) {
+      margin-top: 0rem;
     }
 
     @media (min-width: 500px) {
