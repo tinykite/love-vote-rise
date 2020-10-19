@@ -7,9 +7,6 @@ layout: layouts/base.njk
 
 ## Important Dates
 
-### OCT 13
-Pre-registration deadline
-
 ### OCT 20
 Recommended last day to mail your ballot (2 weeks before election day)
 
@@ -55,6 +52,9 @@ You may still register at your polling location on the day of election. Remember
 ## Love Vote Rise
 
 This non-partisan multimedia project is a collective effort by art and community minded Minnesotans. We are working to promote civic engagement and voter turnout under the banner of LOVE VOTE RISE. Catch our community postering and street projections in action at #LoveVoteRise
+
+[Instagram](https://www.instagram.com/lovevoterise/?hl=en) | [Facebook](https://www.facebook.com/LoveVoteRise)
+
 
 Please donate to help us cover the costs of projection equipment and poster printing. Thank you.
 
