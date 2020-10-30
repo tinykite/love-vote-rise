@@ -6,9 +6,7 @@ layout: layouts/base.njk
 <article class="resources">
 
 ## Urgent Update
-All absentee ballots must be received by 3pm on November 3rd. If you currently have one, please return it to a [ballot drop-off or early voting location]((https://www.sos.state.mn.us/elections-voting/find-county-election-office/)). Do not mail it in. 
-
-All absentee ballots must be received by November 3rd at 3pm to be counted.
+All absentee ballots must be received by 3pm on November 3rd to be counted. If you currently have one, please return it to a [ballot drop-off or early voting location]((https://www.sos.state.mn.us/elections-voting/find-county-election-office/)). Do not mail it in. 
 
 ### Vote on Election Day
 You may vote in-person on election day — November 3rd — until 8pm.
