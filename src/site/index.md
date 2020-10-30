@@ -5,13 +5,15 @@ layout: layouts/base.njk
 
 <article class="resources">
 
-## Important Dates
+## Urgent Update
+All absentee ballots must be received by 3pm on November 3rd. If you currently have one, please return it to a [ballot drop-off or early voting location]((https://www.sos.state.mn.us/elections-voting/find-county-election-office/)). Do not mail it in. 
 
-### OCT 20
-Recommended last day to mail your ballot (2 weeks before election day)
+All absentee ballots must be received by November 3rd at 3pm to be counted.
 
-### NOV 3
-Election Day (You can still register to vote in-person on this day)
+### Vote on Election Day
+You may vote in-person on election day — November 3rd — until 8pm.
+
+_Note: Voting regulations can vary by state. These guidelines are accurate for voting in Minnesota._ 
 
 ## Register to Vote
 [Check your voter registration status](https://mnvotes.sos.state.mn.us/VoterStatus.aspx)
@@ -19,15 +21,12 @@ Election Day (You can still register to vote in-person on this day)
 [Register to vote online](https://www.sos.state.mn.us/elections-voting/register-to-vote/)
 
 ## Vote Early
-[Request an absentee ballot online](https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx) or visit an early voting station to fill out a ballot in-person.
-
-### By Mail
-If you have received an absentee ballot in the mail, please fill it out and drop it in the mail by October 20. Alternatively, you can drop it off at a polling station.
+At this point in the election cycle, do not mail in your ballot. Visit an early voting station to vote in-person or to dop off your absentee ballot.
 
 ### In Person
 [Find your early voting polling station](https://www.sos.state.mn.us/elections-voting/find-county-election-office/)
 
-Early polling stations are available for dropping off absentee ballots or filling out a ballot on site. The last day for early voting is November 2nd. Remember to bring your mask.
+The last day for early voting is November 2nd. Remember to bring your mask.
 
 ### Track Your Ballot
 [Check the status of your ballot](https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx)
